@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 22 10:34:39 ICT 2017
+jsr250-api-1.0.jar>central=
+jsr250-api-1.0.pom>central=
+jsr250-api-1.0-sources.jar>maven2-repository.jboss.org=
